@@ -3,7 +3,9 @@
     "allow": [
       "Agent(Explore)",
       "Bash(dir *)",
-      "Bash(powershell *)"
+      "Bash(powershell *)",
+      "Read(C:\\Users\\kktam\\Documents\\code\\3party\\gatsby/**)",
+      "Bash(cmd *)"
     ]
   },
   "$version": 4
